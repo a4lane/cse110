@@ -30,7 +30,7 @@ External Link: **[A few of my projects](https://github.com/a4lane/Projects/tree/
 
 
  
-[<img src="/misc/cats.png" width="250" height="300" />](misc/cats.png)
+![<img src="/misc/cats.png" width="250" height="300" />](misc/cats.png)
 
 _[(Link to this picture)](misc/cats.png)_
 
