@@ -18,11 +18,11 @@ _Jump To:_
 
 
 - [x] Headings
-- [] Styling text (3)
-- [] Quoting text
+- [ ] Styling text (3)
+- [ ] Quoting text
 - [x] Quoting code
-- [] External Links
+- [ ] External Links
 - [x] Section links
-- [] Relative links 
-- [] Ordered and Unordered Lists
+- [ ] Relative links 
+- [ ] Ordered and Unordered Lists
 - [x] Task lists!
