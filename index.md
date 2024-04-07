@@ -24,6 +24,9 @@ External Link: **[A few of my projects](https://github.com/a4lane/Projects/tree/
 
 > I'm a San Diego local! In my free time I love to cook, read, and practice yoga. I am passionate about art and love to learn about its history. I have two cats and hope to have more pets someday.
 
+[<img src="/misc/cats.png" width="300" height="350" />](misc/cats.png)
+
+
 
 
 ~~Lab Requirements~~
