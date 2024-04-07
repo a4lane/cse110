@@ -10,7 +10,9 @@ _Jump To:_
 
 
 ## Programming Life
-
+**Education**
+1. MiraCosta College: AS of Computer Science (2023)
+2. UC San Diego: BS of Computer Science (in progress)
 
 
 
