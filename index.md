@@ -22,20 +22,30 @@ External Link: **[A few of my projects](https://github.com/a4lane/Projects/tree/
 
 ## Personal Life
 
-> I'm a San Diego local! In my free time I love to cook, read, and practice yoga. I am passionate about art and love to learn about its history. I have two cats and hope to have more pets someday.
+> I'm a San Diego local!
+> In my free time I love to cook, read, and practice yoga.
+> I enjoy electronic music and go to local shows almost every week.
+> I am passionate about art and love to learn about its history.
+> I have two cats and hope to have more pets someday.
 
-[<img src="/misc/cats.png" width="300" height="350" />](misc/cats.png)
+
+ 
+[<img src="/misc/cats.png" width="250" height="300" />](misc/cats.png)
+
+_[(Link to this picture)](misc/cats.png)_
 
 
 
 
+  
 ~~Lab Requirements~~
+- [x] Images
 - [x] Headings
-- [x] Styling text (3)
+- [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
 - [x] Section links
-- [ ] Relative links 
+- [x] Relative links 
 - [x] Ordered and Unordered Lists
-- [x] Task lists!!
+- [x] Task lists
